@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-![localhost_3000_](https://github.com/Joao-MarcosOM/Calculadora/assets/70643779/6a15a846-2844-444c-8f39-ecf04f1e9632)
+![localhost_3000_ (1)](https://github.com/Joao-MarcosOM/Calculadora/assets/70643779/057b33cb-dfdf-43f0-b9b3-6f354406108d)
 
 ### `npm start`
 
